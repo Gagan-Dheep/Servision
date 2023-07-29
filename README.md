@@ -39,7 +39,7 @@ Getting Started To run the portfolio website locally on your machine, follow the
 6. Open your web browser and visit 'http://localhost:3000' to view the website.
 
 
-Deployment 
+##Deployment 
 
 To deploy to a live server, you can follow the deployment instructions provided by your hosting platform or service. Here are a few popular options:
 
