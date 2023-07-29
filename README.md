@@ -24,7 +24,7 @@ Version Control: Git and GitHub are used for version control and collaboration.
 - nodemon 3.0.1
 
 
-Getting Started To run the portfolio website locally on your machine, follow these steps:
+Getting Started To run the RepIt locally on your machine, follow these steps:
 
 1. Ensure that you have Node.js installed on your system.
 
