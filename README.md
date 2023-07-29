@@ -39,15 +39,5 @@ Getting Started To run the RepIt locally on your machine, follow these steps:
 6. Open your web browser and visit 'http://localhost:3000' to view the website.
 
 
-##Deployment 
 
-To deploy to a live server, you can follow the deployment instructions provided by your hosting platform or service. Here are a few popular options:
-
-Netlify
-
-Vercel
-
-GitHub Pages
-
-Remember to update the necessary configuration settings and deployment files (e.g., package.json, .env) based on the chosen deployment method.
 
