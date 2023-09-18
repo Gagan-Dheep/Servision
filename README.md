@@ -18,25 +18,9 @@ JavaScript: JavaScript is utilized for implementing interactivity and dynamic fu
 
 Version Control: Git and GitHub are used for version control and collaboration.
 
+PHP: The server side language used in this website is PHP.
 
-## Dependencies
-- express 4.18.2
-- nodemon 3.0.1
-
-
-Getting Started To run the RepIt locally on your machine, follow these steps:
-
-1. Ensure that you have Node.js installed on your system.
-
-2. Clone the repository to your local machine using the following command: git clone https://github.com/Srivatsajbhat/RepIt
-
-3. Navigate to the project directory: cd RepIt
-
-4. Install the dependencies by running the following command: npm install
-
-5. Once the installation is complete, start the development server: npm start
-
-6. Open your web browser and visit 'http://localhost:3000' to view the website.
+mysql: the database used is mysql which is realtional.
 
 
 
