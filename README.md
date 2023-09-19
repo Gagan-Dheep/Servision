@@ -22,6 +22,12 @@ PHP: The server side language used in this website is PHP.
 
 mysql: the database used is mysql which is realtional.
 
+Steps to setup PHP environment
+1) Install xampp server 
+2) configure the installed zip file extracting it to c drive. 
+3) create a folder in htdocs. 
+4) After cloning the repecit repository, paste the folder in the newly created folder. 
+5) Now the environment for php is set, Just start the server with sql and run the backend for http request. 
 
 
 
