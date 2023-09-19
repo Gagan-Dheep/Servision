@@ -1,14 +1,14 @@
 <?php
 //echo "doen";
-     if ($_SERVER["REQUEST_METHOD"] == "POST") {
+      if ($_SERVER["REQUEST_METHOD"] == "POST") {
         // Database connection parameters
         $server = "localhost";
         $username = "root";
         $password = "";
-        //$database = "forservision"; // Your database name
+        $database = "forservision"; // Your database name
     
         // Create a database connection
-        $conn = mysqli_connect($server, $username, $password);
+        $conn = mysqli_connect($server, $username, $password, $database);
     
         if (!$conn) {
             die("Connection failed: " . mysqli_connect_error());
@@ -57,5 +57,5 @@
     
         // Close the database connection
         mysqli_close($conn);
-    }
+     }
 ?>
