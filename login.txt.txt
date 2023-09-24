@@ -1,0 +1,44 @@
+BENEFITS OF LOGGING IN:
+
+1.Profile Customization: Users can personalize their profiles over time, adding information about their vehicles and preferences for a tailored experience.
+
+2.Subscription Management: Users can access and manage their subscription plans, making it convenient to upgrade, downgrade, or renew services.
+
+3.Payment History: Logged-in users can view their payment history and invoices directly within the app, helping them keep track of expenses.
+
+4.Location Tracking: Users who log in can enable location tracking, allowing the app to recommend nearby mechanics and provide accurate directions.
+
+5.Personalized Recommendations: The app can provide tailored recommendations and discounts based on users' previous service history and preferences.
+
+6.Customer Support: Access to customer support and help center features for quick assistance and issue resolution.
+
+7.Service History: They can access their extensive service history, allowing for better maintenance tracking and planning.
+
+8.Loyalty Rewards: Long-time users who are logged in may receive special loyalty rewards, such as discounts, free services, or priority booking.
+
+9.Faster Booking: Long-time users can enjoy quicker booking processes as the app remembers their preferences and frequently used mechanics.
+
+10.Advanced Features: Over time, they can unlock access to advanced features and Updates first.
+
+
+DRAWBACKS OF NOT LOGGING IN:
+
+1.Lack of Profile Customization: Without an account, they can't customize their profiles for a more personalized experience.
+
+2.No Subscription Management: Users won't have access to subscription plan management and its associated benefits.
+
+3.Limited Payment Options: Payment options may be restricted for non-logged-in users, with fewer choices for completing transactions.
+
+4.Limited Location Features: Location-based services and tracking won't be available to users who choose not to log in.
+
+5.No Personalization: Without an account, users won't receive personalized recommendations or offers.
+
+6.Weaker Customer Support: Non-logged-in users may not have access to direct customer support, relying on general contact options.
+
+7.Limited History: They won't have access to their service history, making it challenging to keep track of past maintenance.
+
+8.No Loyalty Benefits: Users who choose not to log in miss out on loyalty rewards and long-term incentives.
+
+9.Slower Booking: The booking process may be slower as they need to provide information for each booking without the benefit of saved preferences.
+
+10.Missed Advanced Features: They won't be eligible for early access to advanced features and regular updates.
