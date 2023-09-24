@@ -5,7 +5,7 @@ const signUp = document.getElementById('sign-up'),
     loginUp = document.getElementById('login-up')
 
 
-signUp.addEventListener('click', ()=>{
+signUp.addEventListener('click', () => {
     // Remove classes first if they exist
     loginIn.classList.remove('block')
     loginUp.classList.remove('none')
@@ -15,7 +15,7 @@ signUp.addEventListener('click', ()=>{
     loginUp.classList.toggle('block')
 })
 
-signIn.addEventListener('click', ()=>{
+signIn.addEventListener('click', () => {
     // Remove classes first if they exist
     loginIn.classList.remove('none')
     loginUp.classList.remove('block')
@@ -24,3 +24,4 @@ signIn.addEventListener('click', ()=>{
     loginIn.classList.toggle('block')
     loginUp.classList.toggle('none')
 })
+
