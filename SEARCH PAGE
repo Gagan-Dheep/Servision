@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Repit</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .container {
+            max-width: auto;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .title {
+            text-align: left;
+            font-size: 39px;
+            color: #fff;
+            margin: 0;
+            padding-left: 2%;
+        }
+
+        .menu {
+            text-align: center;
+            margin-top: 1px;
+        }
+
+        .menu-item {
+            display: inline-block;
+            margin: 0 20px;
+            font-size: 18px;
+            color: #fff;
+            text-decoration: none;
+        }
+
+        .menu-item:hover {
+            text-decoration: underline;
+        }
+
+        .search-box {
+            max-width: auto;
+            display: flex;
+            align-items: center;
+            margin-top: 20px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 50px;
+            font-size: 16px;
+        }
+
+        .search-button {
+            background-color: #007BFF;
+            color: #fff;
+            border: none;
+            border-radius: 50px;
+            padding: 10px 35px;
+            margin-left: 5px;
+            cursor: pointer;
+        }
+
+        .search-button:hover {
+            background-color: #0056b3;
+        }
+
+        .garage-heading {
+            text-align: center;
+            font-size: 24px;
+            color: #333;
+            margin-top: 20px;
+        }
+
+        .garage-row {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        .garage-box {
+            width: calc(50% - 10px);
+            background-color: #fff;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            padding: 15px;
+            margin-top: 20px;
+            display: flex;
+            align-items: center;
+        }
+
+        .garage-image {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            overflow: hidden;
+            margin-right: 20px;
+        }
+
+        .garage-info {
+            flex-grow: 2;
+        }
+
+        .garage-name {
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
+        }
+
+        .garage-address {
+            font-size: 16px;
+            color: #777;
+        }
+
+        .garage-phone {
+            font-size: 16px;
+            margin-top: 5px;
+            color: #777;
+        }
+
+        .book-now-button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+            margin-top: 10px;
+        }
+
+        .book-now-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 class="title">Repit</h1>
+        <div class="menu">
+            <a href="#" class="menu-item">Home</a>
+            <a href="#" class="menu-item">Service</a>
+            <a href="#" class="menu-item">Subscription</a>
+            <a href="#" class="menu-item">About</a>
+        </div>
+    </header>
+    <div class="container">
+        <div class="search-box">
+            <input type="text" class="search-input" placeholder="Enter the location here">
+            <button class="search-button">Search</button>
+        </div>
+        <h2 class="garage-heading">GARAGE</h2>
+        <div class="garage-ro">
+            <div class="garage-box">
+                <div class="garage-image">
+                    <img src="search.jpg" alt="Garage 1">
+                </div>
+                <div class="garage-info">
+                    <div class="garage-name">Garage 1</div>
+                    <div class="garage-address">ADDRESS: xxxxxxxxxxxxxxx</div>
+                    <div class="garage-phone">Phone no.: +91***********</div>
+                    <button class="book-now-button">Book Now</button>
+                </div>
+            </div>
+            <div class="garage-box">
+                <div class="garage-image">
+                    <img src="search.jpg" alt="Garage 2">
+                </div>
+                <div class="garage-info">
+                    <div class="garage-name">Garage 2</div>
+                    <div class="garage-address">ADDRESS: xxxxxxxxxxxxxxx</div>
+                    <div class="garage-phone">Phone no.: +91***********</div>
+                    <button class="book-now-button">Book Now</button>
+                </div>
+            </div>
+            <div class="garage-box">
+                <div class="garage-image">
+                    <img src="search.jpg" alt="Garage 3">
+                </div>
+                <div class="garage-info">
+                    <div class="garage-name">Garage 3</div>
+                    <div class="garage-address">ADDRESS: xxxxxxxxxxxxxxx</div>
+                    <div class="garage-phone">Phone no.: +91***********</div>
+                    <button class="book-now-button">Book Now</button>
+                </div>
+            </div>
+            <div class="garage-box">
+                <div class="garage-image">
+                    <img src="search.jpg" alt="Garage 4">
+                </div>
+                <div class="garage-info">
+                    <div class="garage-name">Garage 4</div>
+                    <div class="garage-address">ADDRESS: xxxxxxxxxxxxxxx</div>
+                    <div class="garage-phone">Phone no.: +91***********</div>
+                    <button class="book-now-button">Book Now</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
